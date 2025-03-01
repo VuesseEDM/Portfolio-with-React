@@ -60,14 +60,14 @@ function Projects() {
           /> 
 
           <ProjectCard
-          image="../../../public/image/pokemonnn.png"
+          image="/image/pokemonnn.png"
           alt="Pokemon Card"
           title="Pokemon Card"
           url="https://github.com/VuesseEDM/All-Pokemon"
           />
 
           <ProjectCard
-          image="../../../public/image/foto typescript project.png"
+          image="/image/foto typescript project.png"
           alt="Bonny the bonus"
           title="Bonny the bonus"
           url="https://github.com/VuesseEDM/Bonny-The-Bonus"

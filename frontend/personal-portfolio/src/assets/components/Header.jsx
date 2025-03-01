@@ -15,7 +15,7 @@ function Header() {
       <header className="profile-info animate__animated animate__slideInDown FN">
         <div className="right">
           <img
-            srcSet="../../../public/image/profil.jpg"
+            srcSet="/image/profil.jpg"
             alt="Vincenzo Sorrentino's photo"
             title="Vincenzo Sorrentino"
             className="me animate__animated animate__slideInLeft"
